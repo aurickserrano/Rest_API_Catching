@@ -1,5 +1,5 @@
 ## Melhores Práticas para Design de API REST
-
+### Feito Por : Aurick Sordi Serrano
 Neste tutorial, vamos abordar as melhores práticas para projetar APIs REST, garantindo que sejam fáceis de entender, preparadas para o futuro, seguras e rápidas. Vamos explorar várias diretrizes e conceitos importantes ao projetar uma API REST de alta qualidade.
 
 ### 1. **Aceite e Responda com JSON**
