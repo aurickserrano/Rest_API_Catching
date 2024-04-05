@@ -1,3 +1,4 @@
+#Feito por Aurick Sordi Serrano
 from flask import Flask, request, jsonify
 from flask_caching import Cache 
 
