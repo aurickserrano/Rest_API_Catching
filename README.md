@@ -1,6 +1,6 @@
-##Trabalho Feito por :
-##Aurick Serrano 10357998
-##Felipe Lamotte Mohacsi 10390554
+##Trabalho Feito por :##
+##Aurick Serrano 10357998##
+##Felipe Lamotte Mohacsi 10390554##
 
 __3 tutoriais explicando como funciona um Rest api catching mais um script em Python + Flask__
 
