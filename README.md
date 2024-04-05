@@ -4,12 +4,12 @@
 
 __3 tutoriais explicando como funciona um Rest api catching mais um script em Python + Flask__
 
-[x]Importação de módulos
-[x]Criação da instância do aplicativo Flask
-[x]Definição dos dados de exemplo
-[x]Definição dos endpoints da API
-[x]Implementação das funções de rota
-[x]Execução do aplicativo Flask
+- [x]Importação de módulos
+- [x]Criação da instância do aplicativo Flask
+- [x]Definição dos dados de exemplo
+- [x]Definição dos endpoints da API
+- [x]Implementação das funções de rota
+- [x]Execução do aplicativo Flask
 
 ```
 from flask import Flask, request, jsonify
